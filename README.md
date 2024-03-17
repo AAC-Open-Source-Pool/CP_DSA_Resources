@@ -14,5 +14,5 @@ The repository contains resources to practice Problem Solving and Data Structure
 ### [Striver's A2Z SDE sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) - CodingNinjas
 ### [A20J Ladders](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) - Codeforces
 
-## Topic selected problems
+## Topic wise selected problems
 ### Will be updated soon :)
